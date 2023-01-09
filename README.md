@@ -2,7 +2,7 @@
 Simple weather app that utilizes geocoding and weather APIs provided by [Open Meteo](https://open-meteo.com/). Icons used in this project were made by Bora DAN and can be found [here](https://dribbble.com/shots/2531876-Weather-Icons-sketch).  
 
 
-The project were made in React and utilizes react-query and styled-components libraries. You can change units, search places or allow the app to find your localization. The app shows local time of selected localization, and detects night time. 
+The project were made in React and utilizes zod, react-query and styled-components libraries. You can change units, search places or allow the app to find your localization. The app shows local time of selected localization, and detects night time. 
 
 
 Click [here](https://kamilkazor.github.io/weather_app/) to checkout the project. 
