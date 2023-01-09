@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/weather_app/static/js/main.4b3fbd7c.js",
+    "static/media/Sunny.png": "/weather_app/static/media/Sunny.6e4f36b6f663ff2d4d6a.png",
+    "static/media/PartlyCloudyDay.png": "/weather_app/static/media/PartlyCloudyDay.edc43777fbbf36684278.png",
+    "static/media/ModSleet.png": "/weather_app/static/media/ModSleet.6ef96c5a2098a6b1a146.png",
+    "index.html": "/weather_app/index.html",
+    "main.4b3fbd7c.js.map": "/weather_app/static/js/main.4b3fbd7c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4b3fbd7c.js"
+  ]
+}
