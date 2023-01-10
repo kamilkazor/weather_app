@@ -93,6 +93,7 @@ const SearchPlace: React.FC<Props> = (props) => {
 
   function confirmPlace(index: number) {
     if (!data?.data.results || !data.data.results[index]) return;
+    setSelectedIndex(index);
     setShowSuggestions(false);
     inputRef.current && inputRef.current.blur();
     const result = data.data.results[index];
